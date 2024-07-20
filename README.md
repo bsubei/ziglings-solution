@@ -1,3 +1,6 @@
+# Fork disclaimer
+In case it's not obvious, this is a fork of `ziglings`, which you can find at ziglings.org. This fork is my attempt at solving the exercises.
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
